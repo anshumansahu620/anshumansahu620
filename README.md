@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshumansahu620
-- 👀 I’m interested in game development/software engineering
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email:anshu2322sahu@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
