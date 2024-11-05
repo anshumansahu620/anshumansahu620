@@ -3,7 +3,7 @@
 I'm a passionate web developer with a focus on building responsive and user-friendly applications. I love working with modern web technologies to create clean, efficient code and seamless user experiences.
 
 🚀 Skills:
-Front-End: HTML, CSS, JavaScript, React
+Front-End: HTML, CSS, JavaScript
 Back-End: Node.js, Express
 
 Tools: Git, GitHub, VS Code
