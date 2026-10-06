@@ -1,32 +1,66 @@
-# 👋 Hello! I'm Anshuman Sahu
+# Anshuman Sahu
 
-I'm a passionate web developer with a focus on building responsive and user-friendly applications. I love working with modern web technologies to create clean, efficient code and seamless user experiences.
+Computer Science student focused on backend development with Django and Django REST Framework. I build REST APIs, work with PostgreSQL and Redis, and containerize applications with Docker. 
 
-## 🚀 Skills:
+## Backend
 
-**Front-End:**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+My main stack is Python, Django and Django REST Framework. Most of what I've built involves:
 
-**Back-End:**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+- REST API design and development
+- Background services and event-driven processing
 
-**Tools:**  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+I also use Node.js and Express for backend services.
 
----
+## Infrastructure
 
-## 🌱 Currently Learning:
-Exploring advanced JavaScript concepts and frameworks.
+- **Docker / Docker Compose** for running Django apps with their databases and caches
+- **PostgreSQL** as the primary database
+- **Redis** for caching
+- **Nginx** as a reverse proxy
+- **Kafka** (basics) for event-driven communication between services
+- Linux and basic backend deployment concepts
 
-## 💬 Let's Connect:
-I'm always interested in collaborating on exciting projects and connecting with fellow developers.
+## Selected Projects
 
-<!---
-anshumansahu620/anshumansahu620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Reddit Clone Backend
+`Django REST Framework` `PostgreSQL` `Redis` `Docker`
+
+REST API backend for a Reddit-style platform.
+
+- JWT authentication with OTP-based registration and verification
+- Posts, comments and likes
+- Redis-based feed caching
+- PostgreSQL for persistent storage
+- Dockerized with Docker Compose
+
+### Distributed Machine Monitoring System
+`Node.js` `Kafka` `PostgreSQL` `Docker`
+
+Monitoring pipeline for machine data using an event-driven design:
+
+```
+producer → Kafka → backend services → PostgreSQL → API / dashboard
+```
+
+Services run in Docker containers.
+
+## Technologies
+
+**Backend:** Python, Django, Django REST Framework, Node.js, Express  
+**Databases:** PostgreSQL, MongoDB, SQLite  
+**Infrastructure:** Docker, Docker Compose, Redis, Kafka, Nginx  
+**Frontend:** React, Next.js, JavaScript, HTML, CSS  
+**Tools:** Git, GitHub, Postman, Linux
+
+## Currently Working On
+
+- Backend architecture and system design
+- Django REST Framework
+- Docker and deployment
+- DSA and problem solving
+
+## Contact
+
+- GitHub: [anshumansahu620](https://github.com/anshumansahu620)
+- LinkedIn: [Anshuman Sahu](https://www.linkedin.com/in/anshuman-sahu-87189938a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: [anshu2322sahu@gmail.com](mailto:anshu2322sahu@gmail.com)
